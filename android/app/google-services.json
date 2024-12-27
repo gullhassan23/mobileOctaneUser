@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "850657204342",
+    "project_id": "mobileoctane-c702e",
+    "storage_bucket": "mobileoctane-c702e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850657204342:android:cd8b6442ce940be3812757",
+        "android_client_info": {
+          "package_name": "com.solutionsol.mobileOctane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850657204342-k7uvfg8ibru5t3su86d339vdli5sbush.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solutionsol.mobileOctane",
+            "certificate_hash": "f354b5811823a74c37cae9feb9be8c73a27604e3"
+          }
+        },
+        {
+          "client_id": "850657204342-rpaf4tmgema0buibgka79r8p8acv1c52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solutionsol.mobileOctane",
+            "certificate_hash": "5cf6790e6a911c40ac93ccf28910159052c1cd55"
+          }
+        },
+        {
+          "client_id": "850657204342-pk8co4ou522d6jdbkt8ajfas52mlrl7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8e9QxdOrBcQsMgchmnayCbPWWODh4944"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850657204342-pk8co4ou522d6jdbkt8ajfas52mlrl7v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "850657204342-clnpnvlimm6dbophjp5a2go16stsdfru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.solutionsol.moAdminpanel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850657204342:android:a121b4c5c4dc5d90812757",
+        "android_client_info": {
+          "package_name": "com.solutionsol.mobileOctaneAdmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850657204342-pk8co4ou522d6jdbkt8ajfas52mlrl7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8e9QxdOrBcQsMgchmnayCbPWWODh4944"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850657204342-pk8co4ou522d6jdbkt8ajfas52mlrl7v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "850657204342-clnpnvlimm6dbophjp5a2go16stsdfru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.solutionsol.moAdminpanel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
